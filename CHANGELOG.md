@@ -1,3 +1,15 @@
+# v0.0.3 (Thu Aug 31 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Create index.html ([@shahiroshan](https://github.com/shahiroshan))
+
+#### Authors: 1
+
+- Roshan Shahi ([@shahiroshan](https://github.com/shahiroshan))
+
+---
+
 # v0.0.2 (Thu Aug 31 2023)
 
 #### ⚠️ Pushed to `main`
