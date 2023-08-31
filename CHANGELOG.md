@@ -1,3 +1,15 @@
+# v0.0.2 (Thu Aug 31 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Create .env ([@shahiroshan](https://github.com/shahiroshan))
+
+#### Authors: 1
+
+- Roshan Shahi ([@shahiroshan](https://github.com/shahiroshan))
+
+---
+
 # v0.0.1 (Thu Aug 31 2023)
 
 :tada: This release contains work from a new contributor! :tada:
