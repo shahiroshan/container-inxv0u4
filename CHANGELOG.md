@@ -1,3 +1,16 @@
+# v0.0.5 (Thu Aug 31 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Rename dddeploy.sh to deploy.sh ([@shahiroshan](https://github.com/shahiroshan))
+- Rename deploy.sh to dddeploy.sh ([@shahiroshan](https://github.com/shahiroshan))
+
+#### Authors: 1
+
+- Roshan Shahi ([@shahiroshan](https://github.com/shahiroshan))
+
+---
+
 # v0.0.4 (Thu Aug 31 2023)
 
 #### ⚠️ Pushed to `main`
